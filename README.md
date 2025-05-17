@@ -26,3 +26,5 @@ make
 ```bash
 ./metrics_collector
 ```
+
+<img width="591" alt="Image" src="https://github.com/user-attachments/assets/e11a94d4-ad14-4454-b23e-870976f52a6a" />
